@@ -10,7 +10,7 @@ I'm a first-year B.Tech student passionate about *programming, problem-solving, 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech 1st Year Student at *Lovely Professional University (LPU), Punjab*
-- 💻 Currently learning *C / C++*
+- 💻 Currently learning *Python/C / C++*
 - 🌱 Exploring *Web Development*
 - 🧠 Interested in *Problem Solving & Competitive Programming*
 - 🚀 Building projects to improve my practical skills
@@ -96,9 +96,9 @@ at6810500@gmail.com
 ## 🚀 Currently Learning
 
 ```text
-C / C++             ██████░░░░ 60%
-HTML & CSS          ██████░░░░ 60%
-JavaScript          ████░░░░░░ 40%
-Git & GitHub        █████░░░░░ 50%
-Problem Solving     █████░░░░░ 50%
-DSA                 ██░░░░░░░░ 20%
+C / C++             █████░░░░ 50%
+HTML & CSS          █████░░░░ 30%
+JavaScript          ███░░░░░░ 20%
+Git & GitHub        ████░░░░░ 30%
+Problem Solving     ████░░░░░ 50%
+DSA                   ░░░░░░░░ 00%
