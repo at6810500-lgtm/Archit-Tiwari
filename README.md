@@ -74,7 +74,7 @@ I'm a first-year B.Tech student passionate about *programming, problem-solving, 
 
 ## 📊 GitHub Stats
 
-![Raunak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Archit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
@@ -83,13 +83,13 @@ I'm a first-year B.Tech student passionate about *programming, problem-solving, 
 ## 🤝 Connect With Me
 
 💻 *GitHub:*  
-https://github.com/YOUR_USERNAME
+https://github.com/Archit tiwari
 
 💼 *LinkedIn:*  
-YOUR_LINKEDIN
+https://www.linkedin.com/in/archit-tiwari-936240430?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📧 *Email:*  
-YOUR_EMAIL
+at6810500@gmail.com
 
 ---
 
