@@ -83,10 +83,10 @@ I'm a first-year B.Tech student passionate about *programming, problem-solving, 
 ## 🤝 Connect With Me
 
 💻 *GitHub:*  
-https://github.com/Archit tiwari
+https://github.com/Archittiwari
 
 💼 *LinkedIn:*  
-https://www.linkedin.com/in/archit-tiwari-936240430?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://www.linkedin.com/in/archit-tiwari-936240430
 
 📧 *Email:*  
 at6810500@gmail.com
